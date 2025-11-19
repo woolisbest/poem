@@ -1,0 +1,596 @@
+[
+  { "text": "あなたの匂いが好きで、洗濯物と間違えて抱きしめた朝の罪。", "category": "恋愛", "intensity": 6, "length": "short" },
+  { "text": "会議の最中に窓の外に君を見つけてしまい、僕のメモは全部落書きになった。", "category": "職場", "intensity": 5, "length": "short" },
+  { "text": "誕生日メッセージを3回下書きして送れなかった夜。", "category": "恋愛", "intensity": 7, "length": "short" },
+  { "text": "友達の前で強がって、家でアイスを泣きながら食べた日。", "category": "友達", "intensity": 4, "length": "short" },
+  { "text": "制服のボタンを直そうとして手が震えて落とした瞬間。", "category": "学校", "intensity": 7, "length": "short" },
+  { "text": "君が飲み残したストローを宝物にしてしまう僕は病気かもしれない。", "category": "恋愛", "intensity": 9, "length": "short" },
+  { "text": "好きな人のSNSにいいねを押した指が震えた瞬間。", "category": "恋愛", "intensity": 5, "length": "short" },
+  { "text": "廊下で叫んだセリフが全部エコーになって返ってきた。", "category": "学校", "intensity": 4, "length": "short" },
+  { "text": "会議発表中にスライドが白くなり、心も真っ白になった日。", "category": "職場", "intensity": 7, "length": "short" },
+  { "text": "夜中に送ったスタンプが既読無視されて悶えた朝の電車。", "category": "恋愛", "intensity": 6, "length": "short" },
+
+  { "text": "長い詩（告白未遂）:
+君の名前を呼ぶ練習をシャワーでして、泡が全部言葉を奪ってしまった。
+窓の水滴に映る僕は勇者のようで、同時にとても哀れだった。
+結局声は出なくて、夜は僕の胸をそっと閉じた。", "category": "恋愛", "intensity": 9, "length": "long" },
+  { "text": "長い詩（誤送信）:
+うっかり送ったメッセージが君に届き、取り消しボタンを探して夜の画面を爪で削った。
+通知音が鳴るたび心臓が跳ねて、月は苦笑していた。", "category": "恋愛", "intensity": 9, "length": "long" },
+  { "text": "長い詩（妄想の夜）:
+電車の窓に映る影が君と重なり、降りる駅を忘れた。
+駅員さんの声が遠くて、世界が静かに止まった気がした。", "category": "恋愛", "intensity": 7, "length": "long" },
+
+  { "text": "コーヒーの温度を毎朝こっそり君仕様にしている。", "category": "恋愛", "intensity": 8, "length": "short" },
+  { "text": "ポケットのチョコをレンジで溶かしてしまった悲劇。", "category": "恋愛", "intensity": 8, "length": "short" },
+  { "text": "観葉植物に笑い方の練習を見られた夜。", "category": "一人ごと", "intensity": 2, "length": "short" },
+  { "text": "しおりを拾って帰宅後ずっと眺めていた自分が怖い。", "category": "恋愛", "intensity": 6, "length": "short" },
+  { "text": "転びそうになった時のポーズが流行ダンスみたいで撮られた日。", "category": "日常", "intensity": 3, "length": "short" },
+
+  { "text": "電車で目が合っただけで鏡の前で10回笑った自分を許して。", "category": "恋愛", "intensity": 5, "length": "short" },
+  { "text": "君の香りが残る服を洗えず、クローゼットで匂い確認した夜。", "category": "恋愛", "intensity": 8, "length": "short" },
+  { "text": "熱唱したカラオケの記憶が翌日LINEで蒸し返された。", "category": "友達", "intensity": 4, "length": "short" },
+  { "text": "説明書ばかり入ったプレゼントの箱に心が迷子になった。", "category": "恋愛", "intensity": 6, "length": "short" },
+  { "text": "台所で君を思い、フライパンに歌って焦がした夜。", "category": "家族", "intensity": 4, "length": "long" },
+
+  { "text": "君が選んだ本の匂いを嗅いでしまった僕の末路。", "category": "恋愛", "intensity": 7, "length": "short" },
+  { "text": "君の影を探して反射ガラスを覗き込む癖がついた。", "category": "恋愛", "intensity": 6, "length": "short" },
+  { "text": "通知音が鳴るたび君だと空想してしまう癖。", "category": "恋愛", "intensity": 4, "length": "short" },
+  { "text": "会話の一言を3日後に反省して謝る夢を見た。", "category": "職場", "intensity": 3, "length": "short" },
+  { "text": "名前を書くたびに君の字を真似してしまう。", "category": "学校", "intensity": 5, "length": "short" },
+
+  { "text": "夜風にあてた髪が君の匂いに似ていて泣きそうになった。", "category": "恋愛", "intensity": 8, "length": "short" },
+  { "text": "カーディガンからおばあちゃんみたいな安心感がして震えた。", "category": "家族", "intensity": 3, "length": "short" },
+  { "text": "授業中ノートに君の名前を書きすぎて答えが消えた。", "category": "恋愛", "intensity": 6, "length": "short" },
+  { "text": "好きな曲を聞くと全部君の歌声に変換されてしまう病。", "category": "恋愛", "intensity": 5, "length": "short" },
+  { "text": "落ちたプリントを拾う時だけ優しくなってしまう僕。", "category": "学校", "intensity": 3, "length": "short" },
+
+  { "text": "お店で見かけた君に話しかけられず、棚の裏に隠れた。", "category": "恋愛", "intensity": 7, "length": "short" },
+  { "text": "練習した笑顔が現実だと上手くできなくて悔しい。", "category": "恋愛", "intensity": 5, "length": "short" },
+  { "text": "靴紐を結ぶふりで心を落ち着けていたあの日。", "category": "日常", "intensity": 3, "length": "short" },
+  { "text": "帰り道に寄り道して君がいないか探す癖。", "category": "恋愛", "intensity": 6, "length": "short" },
+  { "text": "夕日の角度が君の横顔に似ていて動けなくなった。", "category": "恋愛", "intensity": 8, "length": "short" }
+,
+  {
+    "text": "君の既読がつくまでの3秒が、地球最後の日みたいに長かった。",
+    "category": "恋愛",
+    "intensity": 6,
+    "length": "short"
+  },
+  {
+    "text": "体育倉庫で君の名前をつぶやいたら、バスケットボールが転がって返事をした。",
+    "category": "学校",
+    "intensity": 7,
+    "length": "short"
+  },
+  {
+    "text": "満員電車でイヤホンが外れ、君のことだけを歌った下手な鼻歌が世界公開された。",
+    "category": "日常",
+    "intensity": 8,
+    "length": "short"
+  },
+  {
+    "text": "夜中のテンションで君への長文を打った。翌朝読み返したら、全部ポエムで泣いた。",
+    "category": "恋愛",
+    "intensity": 9,
+    "length": "short"
+  },
+  {
+    "text": "長い詩（失敗した勇気）:
+君に告白しようとした瞬間、僕の心臓だけが落とし物になって転がり落ちた。
+拾うふりをして誤魔化したけれど、君は全部気づいていた、気がする。
+あの帰り道の風は、僕の背中に『まだだよ』と小さく書き込んだ。",
+    "category": "恋愛",
+    "intensity": 10,
+    "length": "long"
+  },
+  {
+    "text": "コンビニのガラスに映った自分の寝癖が、恋の敗北者みたいで泣きそうになった。",
+    "category": "日常",
+    "intensity": 5,
+    "length": "short"
+  },
+  {
+    "text": "君が落とした付箋を拾った。『会議メモ』と書いてあるのに、宝物みたいに扱ってしまった。",
+    "category": "職場",
+    "intensity": 6,
+    "length": "short"
+  },
+  {
+    "text": "図書室の静けさの中、君のページをめくる音だけが、僕の世界のBGMになった。",
+    "category": "学校",
+    "intensity": 7,
+    "length": "short"
+  },
+  {
+    "text": "長い詩（偏愛日記）:
+君が席を立ったあと、椅子の温度がほんのり残っていて、僕はそれを秘密の手紙だと思った。
+誰にも言わない。誰にも触れさせない。
+小さな狂気が、恋の副作用みたいに胸で膨らむ。",
+    "category": "恋愛",
+    "intensity": 10,
+    "length": "long"
+  },
+  {
+    "text": "『タイプじゃない』と言われた帰り道、街灯だけが僕を励ましてくれた。",
+    "category": "恋愛",
+    "intensity": 8,
+    "length": "short"
+  }
+,
+  {
+    "text": "放課後の影が伸びるたび、君への気持ちも勝手に背伸びしていく。",
+    "category": "学校",
+    "intensity": 6,
+    "length": "short"
+  },
+  {
+    "text": "コンビニのおでんの湯気に、君の横顔が一瞬浮かんで消えた。季節のせいにしておく。",
+    "category": "日常",
+    "intensity": 7,
+    "length": "short"
+  },
+  {
+    "text": "会議中に君の声が聞こえた気がして振り返ったら、コピー機が鳴っていただけだった。",
+    "category": "職場",
+    "intensity": 5,
+    "length": "short"
+  },
+  {
+    "text": "長い詩（深夜の錯覚）:
+2時半、眠れずに天井を見ていたら、君の笑い声が降ってきた気がした。
+寝ぼけているのか、恋なのか、どちらにしても僕は救われていない。",
+    "category": "恋愛",
+    "intensity": 9,
+    "length": "long"
+  },
+  {
+    "text": "君と目が合った三秒間で、僕の人生プランが全部書き換わった。",
+    "category": "恋愛",
+    "intensity": 8,
+    "length": "short"
+  },
+  {
+    "text": "机の引き出しに入れた秘密のメモ、誰にも見られてないのにドキドキする。",
+    "category": "学校",
+    "intensity": 6,
+    "length": "short"
+  },
+  {
+    "text": "電車の窓に映る自分があまりに不安そうで、恋は本当に残酷だと思った。",
+    "category": "日常",
+    "intensity": 7,
+    "length": "short"
+  },
+  {
+    "text": "長い詩（こぼれた告白）:
+言いかけた言葉は、コーヒーの香りに混ざってどこかへ飛んでいった。
+あのとき君がカップを両手で包んで笑ったから、僕は言葉を全部落としてしまったんだ。",
+    "category": "恋愛",
+    "intensity": 10,
+    "length": "long"
+  },
+  {
+    "text": "第三ボタンを渡す練習を何度もしたのに、本番ではシャツごと引きちぎりそうになった。",
+    "category": "学校",
+    "intensity": 7,
+    "length": "short"
+  },
+  {
+    "text": "上司に怒られた帰り道、君のタイムラインだけが静かに僕を肯定してくれた。",
+    "category": "職場",
+    "intensity": 6,
+    "length": "short"
+  }
+,
+  {
+    "text": "放課後の靴箱で君の影を探したけれど、見つかったのは僕のため息だけだった。",
+    "category": "学校",
+    "intensity": 6,
+    "length": "short"
+  },
+  {
+    "text": "昼休みに君が落としたペンを拾っただけで、心臓が一日分働いた。",
+    "category": "学校",
+    "intensity": 7,
+    "length": "short"
+  },
+  {
+    "text": "帰り道の風が少し冷たくて、君の言葉だけがやけに温かかった。",
+    "category": "恋愛",
+    "intensity": 6,
+    "length": "short"
+  },
+  {
+    "text": "君の机の上の消しカスを見つめてしまう僕は、もう終わっているのかもしれない。",
+    "category": "学校",
+    "intensity": 8,
+    "length": "short"
+  },
+  {
+    "text": "通勤電車で君に似た後ろ姿を見かけて、その日一日ペースを乱された。",
+    "category": "日常",
+    "intensity": 7,
+    "length": "short"
+  },
+  {
+    "text": "同僚に褒められたのに、なぜか君の反応だけが欲しかった。",
+    "category": "職場",
+    "intensity": 5,
+    "length": "short"
+  },
+  {
+    "text": "夜道の街灯の下で、君の名前だけがやけにはっきり浮かんだ。",
+    "category": "恋愛",
+    "intensity": 8,
+    "length": "short"
+  },
+  {
+    "text": "図書館の奥で聞こえたページをめくる音、君の指先だったらよかったのに。",
+    "category": "学校",
+    "intensity": 7,
+    "length": "short"
+  },
+  {
+    "text": "帰りのバスで見た夕焼けが、君の横顔に似ていて反則だった。",
+    "category": "日常",
+    "intensity": 6,
+    "length": "short"
+  },
+  {
+    "text": "君にメッセージを送ろうとして、入力欄の前で人生相談を始めてしまった。",
+    "category": "恋愛",
+    "intensity": 9,
+    "length": "short"
+  }
+,
+  {"text":"君の忘れ物の上履きを見つめて三分、理性はすでに更衣室に置き去り。","category":"学校","intensity":8,"length":"short"},
+  {"text":"朝の満員電車、君の髪が一瞬触れた気がして、その日の予定が全部吹き飛んだ。","category":"日常","intensity":7,"length":"short"},
+  {"text":"君が貸してくれたボールペン、インクが切れても返したくなかった。","category":"学校","intensity":6,"length":"short"},
+  {"text":"長い詩（深呼吸の理由）：
+君の前に立つと、胸の奥で古いエンジンが動き出す。
+音は聞こえないのに、世界だけがざわつく。
+深呼吸をするたびに、君の名前が静かに形を持った。","category":"恋愛","intensity":10,"length":"long"},
+  {"text":"職場の廊下で君とすれ違う三秒のために、今日のコンディションを整えた。","category":"職場","intensity":6,"length":"short"},
+  {"text":"帰り道の交差点で、君の好きな色の傘を見かけただけで心拍数が跳ねた。","category":"日常","intensity":7,"length":"short"},
+  {"text":"掃除当番で君と同じ班になっただけで、人生のイベント欄が更新された。","category":"学校","intensity":8,"length":"short"},
+  {"text":"長い詩（沈黙の会話）：
+君が隣に座ったのに、僕は一言も言えなかった。
+だけど、窓に映る二人の距離が、言葉よりも雄弁だった。","category":"恋愛","intensity":9,"length":"long"},
+  {"text":"君の退勤時間を知っている自分が少し怖い。でもやめられない。","category":"職場","intensity":7,"length":"short"},
+  {"text":"体育館の床の匂いが、なぜか君の笑顔とリンクしてしまった。","category":"学校","intensity":6,"length":"short"},
+  {"text":"君の投稿にいいねを押すだけで、告白したような気持ちになる夜。","category":"恋愛","intensity":8,"length":"short"},
+  {"text":"ファミレスで一人のとき、向かいの席に君が座っていたらと妄想してしまう。","category":"日常","intensity":5,"length":"short"},
+  {"text":"長い詩（雨音と君）：
+雨の匂いが好きな理由に気づいた。
+君が傘を差すときの横顔を思い出せるから。","category":"恋愛","intensity":8,"length":"long"},
+  {"text":"授業中、君の筆箱のチャックを開ける音だけで集中力がゼロになった。","category":"学校","intensity":7,"length":"short"},
+  {"text":"買い物中に見つけたマグカップ、君が好きそうで五分くらい悩んだ。","category":"日常","intensity":6,"length":"short"},
+  {"text":"会議の資料より、君の付箋の丸文字の方が何倍も説得力がある。","category":"職場","intensity":6,"length":"short"},
+  {"text":"長い詩（こぼれた光）：
+君の笑顔は、部屋の明かりより早く僕を照らした。
+電源じゃない何かで生きている気がした。","category":"恋愛","intensity":9,"length":"long"},
+  {"text":"下校中の風が君の髪を揺らすたび、心のどこかが壊れそうになる。","category":"学校","intensity":8,"length":"short"},
+  {"text":"スーパーの総菜コーナーで、君と同じ味を選んでしまった自分が恥ずかしい。","category":"日常","intensity":5,"length":"short"},
+  {"text":"君の声を聞くと、勝手に背筋が伸びる。会社の教育より効果ある。","category":"職場","intensity":6,"length":"short"}
+,
+    {"text": "月光に照らされて赤面しながら叫ぶ、あの日の告白未遂の残骸。"},
+    {"text": "ポケットの中のメモが震えるほどの黒歴史を今さら読み返す罰。"},
+    {"text": "鏡の前で練習した笑顔が全部ぎこちなくて宇宙に逃げたい夜。"},
+    {"text": "心の奥に封印したはずの甘酸っぱさが、不意に蘇って膝から崩れ落ちる。"},
+    {"text": "走って逃げた校舎裏、まだ残ってるはずのあの恥ずかしい気配。"}
+,
+    {"category": "恋愛崩壊ポエム", "text": "好きだった気持ちが溶けて、恥ずかしさだけが金属バットで殴るように残った午後。"},
+    {"category": "自意識爆散ポエム", "text": "歩くだけで世界が見てる気がして、足跡ひとつすら赤面の歴史。"},
+    {"category": "青春黒歴史ポエム", "text": "黒板に残った自分の名前の落書きが、なぜか今になって心臓に突き刺さる。"},
+    {"category": "ポエム地獄級", "text": "意味不明なポエムを書いたノートを開いた瞬間、精神が逃走した。"},
+    {"category": "陰キャ覚醒ポエム", "text": "勇気を出して話しかけたあの秒数が、今でも夜中に暴走してくる。"}
+,
+    {"category": "恋愛崩壊ポエム", "text": "あなたの既読スルーに世界の終わりを重ねて、勝手に滅亡して勝手に復活した夜。"},
+    {"category": "恋愛崩壊ポエム", "text": "ぎこちない笑顔を向けられただけで天国に浮かんで、直後に自分の勘違いで地獄に落ちた。"},
+    {"category": "恋愛崩壊ポエム", "text": "呼ばれたと思って振り向いたら違って、心だけが無限に空回りした帰り道。"},
+
+    {"category": "自意識爆散ポエム", "text": "階段を降りるだけで視線を感じ、足音まで演出されている気がして震えた。"},
+    {"category": "自意識爆散ポエム", "text": "エレベーターの鏡に映る自分の立ち位置に気を使いすぎて呼吸を忘れた。"},
+    {"category": "自意識爆散ポエム", "text": "『普通にしてればいい』と言われても、その普通がどこかに行方不明。"},
+
+    {"category": "青春黒歴史ポエム", "text": "放課後の教室で叫んだ本音が、今でも頭の中で勝手に再生されてくる呪い。"},
+    {"category": "青春黒歴史ポエム", "text": "勇気を出して書いたラブレターの文体が、十年後に精神を破壊するとは知らなかった。"},
+    {"category": "青春黒歴史ポエム", "text": "なぜあの時だけ自分はポエマーになったのか、未来の自分は答えを知らない。"},
+
+    {"category": "ポエム地獄級", "text": "黒歴史ノートを開いた瞬間、ページから自我が飛び出して逃げようとした。"},
+    {"category": "ポエム地獄級", "text": "未完成の詩が魂の奥底で腐敗して、触れただけで精神が粉砕される。"},
+    {"category": "ポエム地獄級", "text": "比喩を盛りすぎた文章が、自重で崩壊して心だけが巻き込まれた。"},
+
+    {"category": "陰キャ覚醒ポエム", "text": "挨拶を返せただけで一日中テンションが暴走し、夜に後悔で溶けた。"},
+    {"category": "陰キャ覚醒ポエム", "text": "勇気を出して『ありがとう』と言った瞬間、世界がスローモーションになった。"},
+    {"category": "陰キャ覚醒ポエム", "text": "盛大に噛んだ一言が、頭の中で無限ループして寝かせてくれない。"}
+,
+    {"category": "恋愛崩壊ポエム", "text": "君の名前を呼ぶ練習を鏡の前でしていた自分を殴りたい夕暮れ。"},
+    {"category": "恋愛崩壊ポエム", "text": "手を振ろうとして振り方を間違え、愛よりも羞恥が先に死んだ瞬間。"},
+    {"category": "恋愛崩壊ポエム", "text": "思い出の匂いが急に風に混じって、心だけが迷子になる。"},
+    {"category": "恋愛崩壊ポエム", "text": "好きの温度がバレそうで、目すら合わせられなかった昼休み。"},
+    {"category": "恋愛崩壊ポエム", "text": "もらってもいない優しさに勝手に恋して勝手に散った春。"},
+
+    {"category": "自意識爆散ポエム", "text": "後ろ姿まで監視されている気がして、歩き方のフォームが崩壊した。"},
+    {"category": "自意識爆散ポエム", "text": "ドアを押すか引くかで迷って無言のコントを始めた自分に絶望。"},
+    {"category": "自意識爆散ポエム", "text": "何気ない瞬間の呼吸音すら恥ずかしくて、自分の存在がバグに思えた。"},
+    {"category": "自意識爆散ポエム", "text": "知らない人の笑い声が全部自分に向けられた気がする呪い。"},
+    {"category": "自意識爆散ポエム", "text": "『普通』を演じようとした結果、普通から一番遠い生命体になった午後。"},
+
+    {"category": "青春黒歴史ポエム", "text": "勢いだけで叫んだ名言風の言葉が、未来の自分を刺し続ける。"},
+    {"category": "青春黒歴史ポエム", "text": "謎テンションで書いたメッセージの文末に残る謎絵文字が今も心を抉る。"},
+    {"category": "青春黒歴史ポエム", "text": "クラス替え初日にかっこつけた一言が全人生の汚点になった。"},
+    {"category": "青春黒歴史ポエム", "text": "ノートの端に描いた自作ロゴが、世界最強の羞恥心兵器。"},
+    {"category": "青春黒歴史ポエム", "text": "『俺は変わる』と宣言した翌日に何も変わらず、未来の自分が泣いた。"},
+
+    {"category": "ポエム地獄級", "text": "夜中に書いたポエムを朝読み返すという精神破壊イベントが発動した。"},
+    {"category": "ポエム地獄級", "text": "比喩の事故が連鎖して文章がもはや生物兵器と化したページ。"},
+    {"category": "ポエム地獄級", "text": "書いた瞬間の自分を処罰したくなる文章が永遠に残っている呪縛。"},
+    {"category": "ポエム地獄級", "text": "語彙力の暴走で地獄の底まで落ちていくような行間。"},
+    {"category": "ポエム地獄級", "text": "過剰な情熱で燃え上がったワードの灰が、今でも精神を汚す。"},
+
+    {"category": "陰キャ覚醒ポエム", "text": "声をかけられただけで好感度イベントが始まったと錯覚した夜。"},
+    {"category": "陰キャ覚醒ポエム", "text": "話す順番を考えすぎて、本番で全部忘れる神スキル発動。"},
+    {"category": "陰キャ覚醒ポエム", "text": "目を合わせられた瞬間、心がコンセントから抜けたみたいに停止。"},
+    {"category": "陰キャ覚醒ポエム", "text": "返事が聞き取れず『えっ？』を三連発して消えたかった。"},
+    {"category": "陰キャ覚醒ポエム", "text": "思い切り笑わせようとして空回りし、空間だけが静まり返った昼下がり。"}
+,
+    {"category": "社会的死亡ポエム", "text": "送る相手を間違えた既読の破壊力で、魂だけ先に土下座した夕方。"},
+    {"category": "闇のモノローグ", "text": "笑顔で返事した裏で、心の中では倒立しながら絶叫していた。"},
+    {"category": "怪文書系ポエム", "text": "深夜テンションが生成した文章が、翌朝には未知の生命体になっていた。"},
+    {"category": "公開処刑系ポエム", "text": "自己紹介で噛んだ瞬間、教室全体の空気が急速冷凍された。"},
+    {"category": "アホの子ポエム", "text": "勢いだけで走って転んだ過去が、今でも時々肩を叩いてくる。"}
+,
+    {"category": "厨二覚醒ポエム", "text": "闇に飲まれし右手が疼いた気がしたがただの筋肉痛だった。"},
+    {"category": "社内地獄ポエム", "text": "メールのCCを間違えた瞬間、会社の空気が真空になった。"},
+    {"category": "友情崩壊寸前ポエム", "text": "あのときの何気ない一言が、今でも友情の地雷源に埋まっている。"},
+    {"category": "詰んだ瞬間ポエム", "text": "提出期限を見て魂が先に旅立った午後三時。"},
+    {"category": "メンタル砂崩れ系", "text": "小さな失敗が積もり積もって、精神が砂山みたいに崩れ落ちた。"},
+    {"category": "存在迷子ポエム", "text": "会話の輪に入れずに幽霊のように漂う昼休み。"},
+    {"category": "テンション事故ポエム", "text": "テンションを間違えて場を凍らせた瞬間、時間すら息を止めた。"},
+    {"category": "感情暴走ポエム", "text": "嬉しすぎて逆に何も言えなくなって感情が渋滞した。"},
+    {"category": "奇行収集ポエム", "text": "自分でも理由が分からない行動で未来の自分を殺しに行く。"},
+    {"category": "沈黙地獄ポエム", "text": "沈黙が長すぎて秒針の音が審判の鐘みたいに響いた。"}
+,
+    {"category": "恋愛崩壊ポエム", "text": "君の声を聞いただけで心臓が反抗期みたいに暴れ始めた日。"},
+    {"category": "恋愛崩壊ポエム", "text": "渡せなかった手紙が鞄の底で化石になっていく。"},
+    {"category": "恋愛崩壊ポエム", "text": "目が合っただけで恋の幻覚を見て勝手に墜落した。"},
+    {"category": "恋愛崩壊ポエム", "text": "隣を歩くだけで歩幅の調整に全神経を使って会話が消えた。"},
+    {"category": "恋愛崩壊ポエム", "text": "帰り道で思い出した一言に顔面から火が出た。"}
+,
+    {"category": "恋愛崩壊ポエム", "text": "話しかけようとして呼吸のタイミングを完全に失った放課後。"},
+    {"category": "恋愛崩壊ポエム", "text": "君の笑顔を思い出すたびに心の中で膝から崩れ落ちる。"},
+    {"category": "恋愛崩壊ポエム", "text": "名前を呼ばれただけで世界が白く飛んだ瞬間。"},
+    {"category": "恋愛崩壊ポエム", "text": "手を振ったら後ろの人に向けてだったと知った時の魂の沈下。"},
+    {"category": "恋愛崩壊ポエム", "text": "好き避けのつもりがただの不審者ムーブになっていた悲劇。"},
+    {"category": "恋愛崩壊ポエム", "text": "LINEの返信文を30分かけて考えて結局送らない選択をした夜。"},
+    {"category": "恋愛崩壊ポエム", "text": "背伸びした言葉が全部空回ってバリアフリーに倒れた心。"},
+    {"category": "恋愛崩壊ポエム", "text": "会話が終わった後に“正しい返し”が10個思いついて悶絶。"},
+    {"category": "恋愛崩壊ポエム", "text": "目が合ったと勘違いした瞬間の全身の錯覚花火。"},
+    {"category": "恋愛崩壊ポエム", "text": "好きな人の前でだけ語彙力が原始時代になる呪い。"},
+    {"category": "恋愛崩壊ポエム", "text": "挨拶されたのに声が裏返って感情が砂利道で転んだ。"},
+    {"category": "恋愛崩壊ポエム", "text": "二人きりになった瞬間、心臓が勝手に長距離走を始めた。"},
+    {"category": "恋愛崩壊ポエム", "text": "好かれようとして普段しない動きをして後悔が生まれた。"},
+    {"category": "恋愛崩壊ポエム", "text": "好きな人の前でだけ歩き方を忘れる現象が発生。"},
+    {"category": "恋愛崩壊ポエム", "text": "顔を見た瞬間、準備した言葉が全部蒸発して無音になった。"},
+    {"category": "恋愛崩壊ポエム", "text": "沈黙が怖くて話題を無理に捻りだしたら謎トークになった。"},
+    {"category": "恋愛崩壊ポエム", "text": "距離が近いだけで心のOSが強制再起動した。"},
+    {"category": "恋愛崩壊ポエム", "text": "一緒に歩いた帰り道をひとりでリプレイして悶絶ループ。"},
+    {"category": "恋愛崩壊ポエム", "text": "優しくされた記憶が後から恥ずかしさで牙をむいた。"},
+    {"category": "恋愛崩壊ポエム", "text": "気を利かせたつもりの一言が完全にズレて地獄に落ちた。"},
+    {"category": "恋愛崩壊ポエム", "text": "帰宅後に“あれ言わなきゃ良かった”リストが更新される夜。"},
+    {"category": "恋愛崩壊ポエム", "text": "胸が苦しいのは恋ではなく緊張による酸欠だった疑惑。"},
+    {"category": "恋愛崩壊ポエム", "text": "隣に座られた瞬間、脳がパニックで立方体になった。"},
+    {"category": "恋愛崩壊ポエム", "text": "気になる人の笑顔を見ると心が高跳びを始める体質。"},
+    {"category": "恋愛崩壊ポエム", "text": "優しく“ありがとう”と言われただけで一日分の酸素が消えた。"},
+    {"category": "恋愛崩壊ポエム", "text": "自分でも知らない声の高さで返事してしまった黒歴史。"},
+    {"category": "恋愛崩壊ポエム", "text": "話してないのに話した気になって満足してしまう失態。"},
+    {"category": "恋愛崩壊ポエム", "text": "“今日は話せる気がする”と意気込んで結局話さず帰宅。"},
+    {"category": "恋愛崩壊ポエム", "text": "緊張しすぎて笑顔がホラー映画みたいになった。"},
+    {"category": "恋愛崩壊ポエム", "text": "振り返った瞬間に視線がぶつかって魂がダイブした。"},
+    {"category": "恋愛崩壊ポエム", "text": "好きな人の前で噛んだ言葉が一生忘れられない呪物になった。"},
+    {"category": "恋愛崩壊ポエム", "text": "ちょっと褒められただけで人生シミュレーションが暴走。"},
+    {"category": "恋愛崩壊ポエム", "text": "別れ際に手を振るタイミングを間違えて自滅した。"},
+    {"category": "恋愛崩壊ポエム", "text": "勇気を出した行動がすべて“やらないほうがマシ”になる呪い。"},
+    {"category": "恋愛崩壊ポエム", "text": "記憶に残ってほしくない瞬間だけ相手に届いている気がする。"},
+    {"category": "恋愛崩壊ポエム", "text": "君と話す日だけ体温が上がって機能停止する現象。"},
+    {"category": "恋愛崩壊ポエム", "text": "テンションの高さを読み間違えて自分だけ浮いた会話。"},
+    {"category": "恋愛崩壊ポエム", "text": "急に優しくされて“好かれてるかも”という幻覚を見て即死。"},
+    {"category": "恋愛崩壊ポエム", "text": "相手の話を聞いてるふりで実は目のやり場に困っているだけ。"},
+    {"category": "恋愛崩壊ポエム", "text": "気まずさを隠すための笑顔がむしろ事故を悪化させた。"},
+    {"category": "恋愛崩壊ポエム", "text": "“また話そうね”の一言だけで三日は浮かれる単純さ。"},
+    {"category": "恋愛崩壊ポエム", "text": "好きな人の前では視界が狭くなりすぎて周囲が存在しなくなる。"},
+    {"category": "恋愛崩壊ポエム", "text": "気づいてほしいと願いながら気づかれたら死ぬほど恥ずかしい矛盾。"}
+,
+    {"category": "友情崩壊ポエム", "text": "同じ笑い声だったのに、ある日ずれた拍が戻らなくなった。"},
+    {"category": "友情崩壊ポエム", "text": "既読の沈黙が、昔の思い出より重くなった。"},
+    {"category": "友情崩壊ポエム", "text": "隣にいたはずなのに、気づけば声の届かないところにいた。"},
+    {"category": "友情崩壊ポエム", "text": "一緒に笑った写真が、今は目を合わせてくれない。"},
+    {"category": "友情崩壊ポエム", "text": "軽い冗談のつもりだったのに、あの日から戻れなかった。"},
+    {"category": "友情崩壊ポエム", "text": "沈黙を共有できた関係が、今は沈黙しかない関係になった。"},
+    {"category": "友情崩壊ポエム", "text": "『またね』の語尾が、二度と来ないさよならに聞こえた。"},
+    {"category": "友情崩壊ポエム", "text": "歩幅は合うのに、心の距離だけが果てしなく広かった。"},
+    {"category": "友情崩壊ポエム", "text": "同じ景色を見ていたのに、記憶の色だけ違っていた。"},
+    {"category": "友情崩壊ポエム", "text": "なんでも話せたはずなのに、一番言いたいことだけ言えなかった。"},
+    {"category": "友情崩壊ポエム", "text": "君の『大丈夫』が、もう本心じゃないと気づきたくなかった。"},
+    {"category": "友情崩壊ポエム", "text": "気づけば相談相手が互いに別の人になっていた。"},
+    {"category": "友情崩壊ポエム", "text": "自分が笑った瞬間、君はうつむいていた。あれが始まりだった。"},
+    {"category": "友情崩壊ポエム", "text": "『変わったね』と言ったけど、本当は自分が変わったのかもしれない。"},
+    {"category": "友情崩壊ポエム", "text": "二人で積んだ思い出の積み木が、ひとつひとつ静かに崩れていく音がした。"},
+    {"category": "友情崩壊ポエム", "text": "君が誘わなくなった理由を、あえて考えないふりをした。"},
+    {"category": "友情崩壊ポエム", "text": "一緒に帰る道を避けた瞬間、友情が風化し始めた。"},
+    {"category": "友情崩壊ポエム", "text": "いつの間にか、秘密を共有する相手が別の人になっていた。"},
+    {"category": "友情崩壊ポエム", "text": "昔のメッセージを読み返して、同じ熱がもう戻らないと悟った。"},
+    {"category": "友情崩壊ポエム", "text": "君の近況を誰かから聞くたび、心がそっと距離を測っていた。"},
+    {"category": "友情崩壊ポエム", "text": "『最近どう？』の質問が探り合いみたいで嫌になった。"},
+    {"category": "友情崩壊ポエム", "text": "隣にいても遠い、そんな感覚を初めて知った日。"},
+    {"category": "友情崩壊ポエム", "text": "部屋に飾ったプリクラが無言で『もう戻れないよ』と笑っていた。"},
+    {"category": "友情崩壊ポエム", "text": "好きなものが違っても大丈夫だったのに、今は違い全部が棘になった。"},
+    {"category": "友情崩壊ポエム", "text": "いつか話し合えると思ってた未来が、そっと期限切れになっていた。"},
+    {"category": "友情崩壊ポエム", "text": "あの頃のテンションで会える気がしない自分が悲しい。"},
+    {"category": "友情崩壊ポエム", "text": "好きだった笑い方が、今は自分を置き去りにするリズムに聞こえた。"},
+    {"category": "友情崩壊ポエム", "text": "いつの間にか居心地の良さが義務感に変わっていた。"},
+    {"category": "友情崩壊ポエム", "text": "君のSNSの明るさが、僕の居場所の喪失証明書みたいだった。"},
+    {"category": "友情崩壊ポエム", "text": "怒ってほしかったのに、何も言わずに離れたのが一番痛かった。"},
+    {"category": "友情崩壊ポエム", "text": "ほんの少しのすれ違いが、想像以上に大きな崖だった。"},
+    {"category": "友情崩壊ポエム", "text": "手放すつもりはなかったのに、いつの間にか指がゆるんでいた。"},
+    {"category": "友情崩壊ポエム", "text": "久しぶりの会話が、もう初対面みたいにぎこちなかった。"},
+    {"category": "友情崩壊ポエム", "text": "あの日の沈黙が、未来まで響いていたなんて知らなかった。"},
+    {"category": "友情崩壊ポエム", "text": "謝るほどのことじゃないはずなのに、謝れなかった。"},
+    {"category": "友情崩壊ポエム", "text": "距離がある方が傷つかないと知ってしまった。"},
+    {"category": "友情崩壊ポエム", "text": "君の新しい友達の話を聞くたび、胸の中で何かがきしんだ。"},
+    {"category": "友情崩壊ポエム", "text": "『またね』の約束を誰が最初に忘れたのか覚えてない。"},
+    {"category": "友情崩壊ポエム", "text": "心配してほしい気持ちと、距離を置きたい気持ちが同時に暴れた。"},
+    {"category": "友情崩壊ポエム", "text": "当たり前みたいに隣にいた日々が、奇跡だったと気づいた。"},
+    {"category": "友情崩壊ポエム", "text": "無理に明るくするほど、溝は深くなっていった。"},
+    {"category": "友情崩壊ポエム", "text": "いつの間にか、君は僕を必要としなくなっていた。"},
+    {"category": "友情崩壊ポエム", "text": "久しぶりの笑顔が、どこか他人行儀で寂しかった。"},
+    {"category": "友情崩壊ポエム", "text": "あの日交わした秘密は、今はただの思い出の欠片になった。"},
+    {"category": "友情崩壊ポエム", "text": "一緒にいた時間より、離れてからの沈黙の方が長く感じた。"},
+    {"category": "友情崩壊ポエム", "text": "笑い声が、互いの心に届かなくなった瞬間がたしかにあった。"},
+    {"category": "友情崩壊ポエム", "text": "気づかれないように距離を取る優しさも、痛みになる日がある。"},
+    {"category": "友情崩壊ポエム", "text": "同じ空にいたはずなのに、雲の色だけ違って見えた。"}
+  
+  {"category": "short_friendship_break_poem", "text": "笑い声だけ先にどこかへ行った。"},
+  {"category": "short_friendship_break_poem", "text": "返事より沈黙のほうが多くなった日があった。"},
+  {"category": "short_friendship_break_poem", "text": "同じ道でも、君はもう遠かった。"},
+  {"category": "short_friendship_break_poem", "text": "呼び方が変わった瞬間、心も離れた。"},
+  {"category": "short_friendship_break_poem", "text": "君の『大丈夫』が僕だけに冷たかった。"},
+  {"category": "short_friendship_break_poem", "text": "並んで歩くだけでぎこちなくなった。"},
+  {"category": "short_friendship_break_poem", "text": "僕の近況だけ薄く流された。"},
+  {"category": "short_friendship_break_poem", "text": "会話の隙間に気まずさが座っていた。"},
+  {"category": "short_friendship_break_poem", "text": "昔の写真だけが仲良かった。"},
+  {"category": "short_friendship_break_poem", "text": "気付けば、僕だけが追いかけていた。"},
+  {"category": "short_friendship_break_poem", "text": "同じ景色が違って見えた。"},
+  {"category": "short_friendship_break_poem", "text": "君の笑顔に僕の席はなかった。"},
+  {"category": "short_friendship_break_poem", "text": "返ってきた言葉がやけに軽かった。"},
+  {"category": "short_friendship_break_poem", "text": "話題が尽きるのが怖くなった。"},
+  {"category": "short_friendship_break_poem", "text": "僕の冗談だけ空回りしていた。"},
+  {"category": "short_friendship_break_poem", "text": "既読が痛みに変わった。"},
+  {"category": "short_friendship_break_poem", "text": "沈黙が仲を削っていった。"},
+  {"category": "short_friendship_break_poem", "text": "すれ違いを笑えなくなった。"},
+  {"category": "short_friendship_break_poem", "text": "気遣いが壁みたいだった。"},
+  {"category": "short_friendship_break_poem", "text": "会う約束の温度が違っていた。"},
+  {"category": "short_friendship_break_poem", "text": "僕の楽しさだけ届かなかった。"},
+  {"category": "short_friendship_break_poem", "text": "昔話しか繋ぐものがなかった。"},
+  {"category": "short_friendship_break_poem", "text": "挨拶が礼儀っぽくなっていった。"},
+  {"category": "short_friendship_break_poem", "text": "一瞬の視線が避けられた。"},
+  {"category": "short_friendship_break_poem", "text": "同じタイミングで笑えなかった。"},
+  {"category": "short_friendship_break_poem", "text": "近くにいても遠かった。"},
+  {"category": "short_friendship_break_poem", "text": "嬉しさを分け合えなかった。"},
+  {"category": "short_friendship_break_poem", "text": "寂しさを隠すのが習慣になった。"},
+  {"category": "short_friendship_break_poem", "text": "『また今度』に期限はなかった。"},
+  {"category": "short_friendship_break_poem", "text": "僕の言葉だけ聞き流された。"},
+  {"category": "short_friendship_break_poem", "text": "会いたい理由を失ってしまった。"},
+  {"category": "short_friendship_break_poem", "text": "君が僕を必要としなくなった。"},
+  {"category": "short_friendship_break_poem", "text": "写真の距離が現実を教えてくれた。"},
+  {"category": "short_friendship_break_poem", "text": "気まずさが二人の間に常駐した。"},
+  {"category": "short_friendship_break_poem", "text": "僕の言い訳が虚しく響いた。"},
+  {"category": "short_friendship_break_poem", "text": "話のテンポがずれていた。"},
+  {"category": "short_friendship_break_poem", "text": "目が合わなくなった理由を知っていた。"},
+  {"category": "short_friendship_break_poem", "text": "仲直りするほど近くなかった。"},
+  {"category": "short_friendship_break_poem", "text": "優しさだけが遠ざけた。"},
+  {"category": "short_friendship_break_poem", "text": "涙より諦めのほうが先に来た。"},
+  {"category": "short_friendship_break_poem", "text": "僕だけが昔のままだった。"},
+  {"category": "short_friendship_break_poem", "text": "心の距離は戻らなかった。"},
+  {"category": "short_friendship_break_poem", "text": "返事の温度が冷えていた。"},
+  {"category": "short_friendship_break_poem", "text": "無理に明るくする日が増えた。"},
+  {"category": "short_friendship_break_poem", "text": "僕より楽しそうな人が隣にいた。"},
+  {"category": "short_friendship_break_poem", "text": "何を話すべきか考えるようになった。"},
+  {"category": "short_friendship_break_poem", "text": "隣の席が空いても呼ばれなかった。"},
+  {"category": "short_friendship_break_poem", "text": "視線を合わせる勇気がなかった。"},
+  {"category": "short_friendship_break_poem", "text": "笑い合う未来が見えなかった。"},
+  {"category": "short_friendship_break_poem", "text": "僕だけが関係を守ろうとしていた。"},
+  {"category": "short_friendship_break_poem", "text": "秘密を共有しなくなっていった。"},
+  {"category": "short_friendship_break_poem", "text": "心配される回数が減った。"},
+  {"category": "short_friendship_break_poem", "text": "優先順位から静かに消えた。"},
+  {"category": "short_friendship_break_poem", "text": "誤魔化し笑いが増えた。"},
+  {"category": "short_friendship_break_poem", "text": "傷つけ合うほど近くもなかった。"},
+  {"category": "short_friendship_break_poem", "text": "君の本心はもう聞けなかった。"},
+  {"category": "short_friendship_break_poem", "text": "気づけば思い出しか残ってなかった。"},
+  {"category": "short_friendship_break_poem", "text": "距離は縮む気配を見せなかった。"},
+  {"category": "short_friendship_break_poem", "text": "大事な話だけ避けられた。"},
+  {"category": "short_friendship_break_poem", "text": "僕の名前が呼ばれる回数が減った。"},
+  {"category": "short_friendship_break_poem", "text": "笑い声に僕だけ巻き込まれなかった。"},
+  {"category": "short_friendship_break_poem", "text": "忘れられる予感がしていた。"},
+  {"category": "short_friendship_break_poem", "text": "すれ違いは日常になった。"},
+  {"category": "short_friendship_break_poem", "text": "僕の話ばかり途切れた。"},
+  {"category": "short_friendship_break_poem", "text": "軽い冗談すら重く受け止められた。"},
+  {"category": "short_friendship_break_poem", "text": "昔のテンションが思い出せなかった。"},
+  {"category": "short_friendship_break_poem", "text": "心のノックに応えてもらえなかった。"},
+  {"category": "short_friendship_break_poem", "text": "優しさより距離が勝った。"},
+  {"category": "short_friendship_break_poem", "text": "僕の時間だけ止まっていた。"},
+  {"category": "short_friendship_break_poem", "text": "すぐ近くなのに届かない声だった。"},
+  {"category": "short_friendship_break_poem", "text": "あの頃の君はもういなかった。"},
+  {"category": "short_friendship_break_poem", "text": "未来の話ができなくなった。"},
+  {"category": "short_friendship_break_poem", "text": "会話の切り上げ方が変わった。"},
+  {"category": "short_friendship_break_poem", "text": "僕の喜びは共有されなかった。"},
+  {"category": "short_friendship_break_poem", "text": "薄まっていく仲を見て見ぬふりをした。"},
+  {"category": "short_friendship_break_poem", "text": "昔の呼び名が懐かしく響いた。"},
+  {"category": "short_friendship_break_poem", "text": "どちらが悪いわけでもなかった。"},
+  {"category": "short_friendship_break_poem", "text": "自然と距離ができるほど脆かった。"},
+  {"category": "short_friendship_break_poem", "text": "心のドアが閉じる音がした。"},
+  {"category": "short_friendship_break_poem", "text": "話しかける勇気が薄れていった。"},
+  {"category": "short_friendship_break_poem", "text": "関係が軽く崩れていくのがわかった。"},
+  {"category": "short_friendship_break_poem", "text": "僕の存在が薄く扱われた。"},
+  {"category": "short_friendship_break_poem", "text": "君の気遣いが冷たく感じた。"},
+  {"category": "short_friendship_break_poem", "text": "曖昧な距離が続いていた。"},
+  {"category": "short_friendship_break_poem", "text": "同じ景色を語れなくなった。"},
+  {"category": "short_friendship_break_poem", "text": "僕の言葉が空に消えた。"},
+  {"category": "short_friendship_break_poem", "text": "笑っていてもつながれなかった。"},
+  {"category": "short_friendship_break_poem", "text": "僕の存在が重荷のようだった。"}
+{
+  "黒歴史覚醒ポエム": [
+    "闇を抱きしめたつもりが、抱かれていたのは僕の方だった。",
+    "あの日のポエム帳、読み返す勇気だけが未だにレベル1。",
+    "中二の夜空に刻んだ呪文、今はただの黒歴史の星座。",
+    "漆黒の羽を生やしたいと願い、黒マジックで腕を染めた。",
+    "世界の理から外れた存在を名乗ったのは僕の方だった。",
+    "『選ばれし者』を自称したのに、誰にも呼ばれなかった。",
+    "放課後の教室で闇の眷属を召喚しようとして怒られた。",
+    "鏡に向かって能力名を唱えたけど、光ったのは顔だけ。",
+    "『封印を解くな』と書いたメモ、自分で失くした。",
+    "黒いマントを買った瞬間、魂が震えたのは確かだった。",
+    "異能は覚醒しなかったけど、羞恥心だけは覚醒した。",
+    "『俺の中のもう一人の俺』は今も音信不通。",
+    "地面に影が伸びただけで『来たな…』と呟いた午後。",
+    "ノートに綴った終焉の詩、今読むと始まりの悲鳴。",
+    "中二の僕が守りたかった世界、今はただの黒歴史。",
+    "『封印されし力』を言い訳に体育をサボった日。",
+    "“黒炎”と名付けた技、ただの全力パンチだった。",
+    "闇属性の気配を感じたのは、単なる寝不足だった。",
+    "誰も知らない運命を背負ってたつもりで背中が痛い。",
+    "仲間を集めようとしたら誰も来なかった伝説。",
+    "厨二ポーズの写真、永遠に封印したい第一章。",
+    "『影が笑った』と騒いでたのは僕の目の錯覚だった。",
+    "夜風に向かって必殺技名を叫んで風邪を引いた。",
+    "『目覚めろ、真の力！』と叫んでも目覚めなかったのは僕。",
+    "机に彫った魔法陣、ただの円だったのは後で気づいた。",
+    "“漆黒の書”と呼んでたのはただの英語ノート。",
+    "『闇の契約を結んだ』と言った瞬間、母に怒られた。",
+    "天井を見て運命を語ってたけど寝不足だっただけ。",
+    "教室の隅を“領域”と呼んで占領してた黒歴史。",
+    "黒のアイラインを“魔力線”と呼んでいた痛き日々。",
+    "“覚醒の予兆”だと思ったらただの筋肉痛だった。",
+    "夕日を背負って『俺は闇を知る者…』と呟いた帰り道。",
+    "闇の王を名乗ったけど、家では普通に皿洗いをしてた。",
+    "『血の契約』と書いたメモ、赤ペンで書いただけだった。",
+    "夜の公園で魔法練習して犬に吠えられて逃げた。",
+    "『時空の裂け目が開く…！』と叫んだら友達が引いた。",
+    "黒コートを羽織った瞬間、世界が変わったのは気分だけ。",
+    "『封印が疼く…』と言ったら病院をすすめられた。",
+    "“漆黒の力”が流れたのはただの鳥肌だった。",
+    "雨の中で“運命”を呟いたら普通に風邪をひいた。",
+    "黒いノートを“魔導書”と呼んで写経してた頃。",
+    "鏡を見て『これが俺か…』と深刻ぶってた黒歴史。",
+    "闇の紋章を描いたけど自分でも読めなかった。",
+    "『世界の半分をくれてやる』と言う相手がいなかった。",
+    "一人で“最終決戦ごっこ”して転んだ夜。",
+    "“真名解放”を宣言したのに誰も気づいてくれなかった。",
+    "闇の瞳を演出しようとカラーコンタクトで失敗した。",
+    "“終焉の儀式”と称した一人の夕食。",
+    "僕の黒歴史が覚醒したのは、あの日のノートを見つけた瞬間だ。"
+  ]
+}
+]
